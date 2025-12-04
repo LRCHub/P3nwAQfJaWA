@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コンタクティ",
+  "base_artist": "笹川真生",
+  "createdAt": "2025-12-04T11:53:17.236218Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コンタクティ",
+      "artist": "笹川真生",
+      "has_synced": false,
+      "path": "select/pl_01_コンタクティ_笹川真生.txt"
+    }
+  ]
+}
